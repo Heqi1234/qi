@@ -1,0 +1,2 @@
+# qi
+static pages.
